@@ -1,0 +1,10 @@
+{
+	"description" : "mirqo custom extension to set a shutdown timer",
+	"name" : "Bedtime",
+	"shell-version" : [
+		"42.9"
+	],
+	"url" : "",
+	"uuid" : "bedtime@mirqko.github.com",
+	"version" : 1
+}
