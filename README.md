@@ -8,7 +8,7 @@
 
 1. Clone the repository:
 ```
-git clone <repository-url>
+git clone https://github.com/mirqko/bedtime_gnome_extension.git
 ```
 2. Copy the extension directory to GNOME’s local extensions folder:
 ```
@@ -41,4 +41,4 @@ Save and exit. The change takes effect immediately.
 
 
 ## Tested on:
-tested on Pop!_OS 22.04 wuth gnome-shell 42.9 
+tested on Pop!_OS 22.04 with gnome-shell 42.9 
