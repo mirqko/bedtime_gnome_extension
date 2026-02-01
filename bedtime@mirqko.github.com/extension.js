@@ -14,7 +14,7 @@ function enable() {
     button = new PanelMenu.Button(0.0, "Shutdown Timer");
 
     const label = new St.Label({
-        text: "🌙 bedtime",
+        text: "🌙",
         y_align: Clutter.ActorAlign.CENTER
     });
     button.add_child(label);
